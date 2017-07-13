@@ -1,5 +1,5 @@
 # Pseudo 3D Racing Game
-
+Projeto de estudo para criação de games que utilizam a técnica do Pseudo 3D para criação de games de corrida
 ## Referências
 * http://www.extentofthejam.com/pseudo
 * http://codeincomplete.com/posts/javascript-racer-v1-straight
